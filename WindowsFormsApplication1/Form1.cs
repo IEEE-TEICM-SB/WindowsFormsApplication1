@@ -37,10 +37,6 @@ namespace WindowsFormsApplication1
 //            textBox1.MaxLength = 2;
             switch (textBox1.Text)
             {
-
-
-
-
                 case "daidalos":
                 {
                     MessageBox.Show("hell");
@@ -55,8 +51,7 @@ namespace WindowsFormsApplication1
                 {
                     MessageBox.Show("Your name is not inportant");
                         break;
-                }
-
+                }              
             }
             string[] names1=new string[10];
             string[] names =
