@@ -37,6 +37,10 @@ namespace WindowsFormsApplication1
 //            textBox1.MaxLength = 2;
             switch (textBox1.Text)
             {
+
+
+
+
                 case "daidalos":
                 {
                     MessageBox.Show("hell");
