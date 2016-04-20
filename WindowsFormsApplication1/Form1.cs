@@ -52,6 +52,10 @@ namespace WindowsFormsApplication1
                     MessageBox.Show("Your name is not inportant");
                         break;
                 }              
+
+
+
+
             }
             string[] names1=new string[10];
             string[] names =
